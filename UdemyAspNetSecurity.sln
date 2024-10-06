@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataProtection.Web", "DataProtection.Web\DataProtection.Web.csproj", "{FDEA9F3C-77EF-47CC-8624-E4375972057E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FDEA9F3C-77EF-47CC-8624-E4375972057E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDEA9F3C-77EF-47CC-8624-E4375972057E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDEA9F3C-77EF-47CC-8624-E4375972057E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDEA9F3C-77EF-47CC-8624-E4375972057E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A99B83FA-669D-408C-B885-2AC3FC8E3ADD}
+	EndGlobalSection
+EndGlobal
